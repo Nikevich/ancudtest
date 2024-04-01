@@ -1,0 +1,17 @@
+{
+    "shapes": [
+      {
+        "type": "rectangle",
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 6,
+        "color": "blue"
+      },
+      {
+        "type": "triangle",
+        "points": [[2, 5], [5, 6], [1, 2]],
+        "color": "orange"
+      }
+    ]
+  }
