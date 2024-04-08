@@ -1,0 +1,11 @@
+2024-04-08 14:31:51,068 INFO Program started, libs imported
+2024-04-08 14:31:55,337 INFO File loaded
+2024-04-08 14:31:55,393 INFO Add rectangle with parametres [1, 1], height = 6, width = 1, color = blue
+2024-04-08 14:31:55,555 INFO Program finished successfully
+2024-04-08 14:32:09,770 INFO File loaded
+2024-04-08 14:32:09,790 INFO Add rectangle with parametres [1, 1], height = 6, width = 1, color = blue
+2024-04-08 14:32:09,924 INFO Program finished successfully
+2024-04-08 14:32:31,996 INFO File loaded
+2024-04-08 14:32:32,011 INFO Add rectangle with parametres [1, 1], height = 6, width = 1, color = blue
+2024-04-08 14:32:32,013 INFO Add figure other type [[2, 5], [5, 6], [1, 2]]
+2024-04-08 14:32:32,151 INFO Program finished successfully
